@@ -1,0 +1,148 @@
+id,group,context,links
+1,DS,"El mercado de productos de un país muestra sus gustos, hábitos y además da una visión general 
+                      de la evolución de su economía en términos de la sofisticación y precios de los productos que están disponibles. 
+                      Por ejemplo, la variedad de marcas y productos disponibles en categorías como protectores solares, sopas, 
+                      cervezas y cremas para peinar ha tenido un crecimiento acelerado en los últimos años (Fuente: Kantar Worldpanel).",https://www.kaggle.com/camiloemartinez/productos-consumo-masivo
+2,DS,"Dataset de los programas electorales de los partidos que se presentaron a 
+                      las elecciones españolas del 10 de noviembre de 2019.",https://www.kaggle.com/datashyends/programas10n
+3,DS,"For our example, I'm going be working with a dataset of information on various recipes. 
+                      I want to predict whether or not a recipe is a dessert based on how many calories it has.
+                      First, let's read in the library & datasets we'll need.",https://www.kaggle.com/rtatman/regression-challenge-day-1
+4,DS,"For our example today, we're going to use the Kaggle we’re going to use the 2017 
+                      Kaggle ML and Data Science Survey. I’m interested in seeing if we can predict the salary of 
+                      data scientists based on their age. My intuition is that older data scientists, 
+                      who are probably more experienced, will have higher salaries.",https://www.kaggle.com/rtatman/regression-challenge-day-2
+5,DS,"Let's see if we can predict the probability that a hard drive will fail based on the 
+                      Read Error Rate (which is in the column smart_1_normalized in this dataset). Intuitively, 
+                      I'd expect that a hard drive is more likely to fail if the Read Error Rate is higher, 
+                      i.e. there are more read errors.",https://www.kaggle.com/rtatman/regression-challenge-day-3
+6,DS,"For my multiple regression example, 
+                      I'm going to be using a dataset of health and eating habits of Americans collected by 
+                      the US Bureau of Labor Statistics. I'm going to see if we can predict BMI 
+                      (body mass index, intended to be a rough measure of body fat) using height, 
+                      weight, how much time each person spends exercising and how much time each person spends eating.",https://www.kaggle.com/rtatman/regression-challenge-day-4
+7,DS,"For our example, I'm going to be figuring out what 
+                      features are most helpful when we're predicting the income of a new coder. 
+                      I'm going to be using data from the 2016 Free Code Camp new coder's survey, 
+                      and I've already read in data from the 2017 survey for you to use in your example.",https://www.kaggle.com/rtatman/regression-challenge-day-5
+8,ML,"In this challenge, you are asked to predict a tight bounding box around object instances.
+                      The training set contains 12.2M bounding-boxes across 500 categories on 1.7M images. 
+                      The boxes have been largely manually drawn by professional annotators to ensure accuracy and consistency. 
+                      The images are very diverse and often contain complex scenes with several objects (7 per image on average).",https://www.kaggle.com/c/open-images-2019-object-detection/overview
+9,ML,"In this challenge, you will build and optimize algorithms based on a large-scale dataset. 
+                      This dataset features the raw sensor camera inputs as perceived by a fleet of multiple, high-end, 
+                      autonomous vehicles in a restricted geographic area.",https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/overview
+10,ML,"In this challenges, you’ll detect wheat heads from outdoor images of wheat plants, 
+                      including wheat datasets from around the globe. Using worldwide data, 
+                      you will focus on a generalized solution to estimate the number and size of wheat heads. 
+                      To better gauge the performance for unseen genotypes, environments, and observational conditions, 
+                      the training dataset covers multiple regions. You will use more than 3,000 images 
+                      from Europe (France, UK, Switzerland) and North America (Canada). The test data includes about 1,000 images 
+                      from Australia, Japan, and China.",https://www.kaggle.com/c/global-wheat-detection
+11,ML,"In this challenge, you are asked to build the best performing algorithm for automatically detecting objects.",https://www.kaggle.com/c/google-ai-open-images-object-detection-track
+12,ML,"In this challenge, you are asked to predict a tight bounding box around object instances.",https://www.kaggle.com/c/open-images-object-detection-rvc-2020
+13,ML,"In this challenge you'll notice there isn't a leaderboard, 
+                      and you are not required to develop a predictive model. This isn't a traditional 
+                      supervised Kaggle machine learning competition. Instead, this challenge asks you 
+                      to use data to propose specific rule modifications for the NFL that aim to reduce 
+                      the occurrence of concussions during punt plays. For more information on this challenge format, 
+                      see this forum thread. This challenge is part of NFL 1st & Future, presented 
+                      by Arrow Electronics – the NFL’s annual Super Bowl competition designed to spur innovation in player health, 
+                      safety and performance.",https://www.kaggle.com/c/NFL-Punt-Analytics-Competition
+14,ML,"In this challenge, you're tasked to investigate the relationship between the playing surface and 
+                      the injury and performance of National Football League (NFL) athletes and to examine factors that may contribute 
+                      to lower extremity injuries.",https://www.kaggle.com/c/nfl-playing-surface-analytics
+15,ML,The competition is aimed at articulating insights from the Interviews with ML Heroes. Check the judging criteria for complete details.,https://www.kaggle.com/rohanrao/chai-time-data-science/tasks?taskId=1183
+16,ML,"In response to the COVID-19 pandemic, the White House and a coalition of leading 
+                      research groups have prepared the COVID-19 Open Research Dataset (CORD-19). 
+                      CORD-19 is a resource of over 200,000 scholarly articles, including over 100,000 with full text, 
+                      about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided 
+                      to the global research community to apply recent advances in natural language processing and other 
+                      AI techniques to generate new insights in support of the ongoing fight against this infectious disease. 
+                      There is a growing urgency for these approaches because of the rapid acceleration in new coronavirus literature, 
+                      making it difficult for the medical research community to keep up.",https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+17,ML,"The challenge objective: tell a data story about a subset of the data science community 
+                      represented in this survey, through a combination of both narrative text and data exploration. A “story” 
+                      could be defined any number of ways, and that’s deliberate. The challenge is to deeply explore (through data) 
+                      the impact, priorities, or concerns of a specific group of data science and machine learning practitioners. 
+                      That group can be defined in the macro (for example: anyone who does most of their coding in Python) or the micro 
+                      (for example: female data science students studying machine learning in masters programs). 
+                      This is an opportunity to be creative and tell the story of a community you identify with or are passionate about!",https://www.kaggle.com/c/kaggle-survey-2019
+18,ML,"DonorsChoose.org has funded over 1.1 million classroom requests through the support of 3 million donors, 
+                      the majority of whom were making their first-ever donation to a public school. If DonorsChoose.org can motivate even a 
+                      fraction of those donors to make another donation, that could have a huge impact on the number of classroom requests fulfilled.
+                      A good solution will enable DonorsChoose.org to build targeted email campaigns recommending specific classroom requests to prior donors. Part of the challenge is to assess the needs of the organization, uncover insights from the data available, and build the right solution for this problem. Submissions will be evaluated on the following criteria:
+                      Performance - How well does the solution match donors to project requests to which they would be motivated to donate? 
+                      DonorsChoose.org will not be able to live test every submission, so a strong entry will clearly articulate why it will be 
+                      effective at motivating repeat donations.
+                      Adaptable - The DonorsChoose.org team wants to put the winning submissions to work, quickly. 
+                      Therefore a good entry will be easy to implement in production.
+                      Intelligible - A good entry should be easily understood by the DonorsChoose.org team should it need to be updated in the future 
+                      to accommodate a changing marketplace.",https://www.kaggle.com/donorschoose/io?select=Donors.csv
+19,ML,"Part of this challenge is to assess the needs of students by using publicly available data to quantify the challenges 
+                      they face in taking the SHSAT. The best solutions will enable PASSNYC to identify the schools where minority and underserved students 
+                      stand to gain the most from services like after school programs, test preparation, mentoring, or resources for parents.",https://www.kaggle.com/passnyc/data-science-for-good
+20,ML,"A good solution in this challenge would connect the features of each loan or product to one of several poverty 
+                      mapping datasets, which indicate the average level of welfare in a region on as granular a level as possible. 
+                      Many datasets indicate the poverty rate in a given area, with varying levels of granularity. Kiva would like to be able to 
+                      disaggregate these regional averages by gender, sector, or borrowing behavior in order to estimate a Kiva borrower’s level 
+                      of welfare using all of the relevant information about them. Strong submissions will attempt to map vaguely described locations 
+                      to more accurate geocodes.",https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding
+21,ML,"The U.S. has almost 500 students for every guidance counselor. 
+                      Underserved youth lack the network to find their career role models, making CareerVillage.org 
+                      the only option for millions of young people in America and around the globe with nowhere else to turn.",https://www.kaggle.com/c/data-science-for-good-careervillage
+22,ML,"The content, tone, and format of job bulletins can influence the quality of the applicant pool. 
+                      Overly-specific job requirements may discourage diversity. The Los Angeles Mayor’s Office wants to reimagine the city’s 
+                      job bulletins by using text analysis to identify needed improvements.",https://www.kaggle.com/c/data-science-for-good-city-of-los-angeles
+22,AI,"Designers know what they are creating, but what, and how, do people really wear their products? 
+                      What combinations of products are people using? In this competition, 
+                      we challenge you to develop algorithms that will help with an important step towards automatic product detection – 
+                      to accurately assign segmentations and attribute labels for fashion images.",https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6
+23,AI,"Airbus offers comprehensive maritime monitoring services by building a meaningful solution for wide coverage, 
+                      fine details, intensive monitoring, premium reactivity and interpretation response. 
+                      Combining its proprietary-data with highly-trained analysts, they help to support the maritime industry to increase knowledge, 
+                      anticipate threats, trigger alerts, and improve efficiency at sea.",https://www.kaggle.com/c/airbus-ship-detection
+24,AI,Build an algorithm that automatically and accurately identifies if a subsurface target is salt or not.,https://www.kaggle.com/c/tgs-salt-identification-challenge
+25,AI,"This dataset contains a large number of segmented nuclei images. 
+                      The images were acquired under a variety of conditions and vary in the cell type, magnification, and imaging modality 
+                      (brightfield vs. fluorescence). The dataset is designed to challenge an algorithm's ability to generalize across these variations.",https://www.kaggle.com/c/data-science-bowl-2018/data
+26,AI,"In this challenge you will take on the very difficult task of predicting the future (stock returns). 
+                      Given historical stock performance and a host of masked features, can you predict intra and end of day returns without being 
+                      deceived by all the noise? ",https://www.kaggle.com/c/the-winton-stock-market-challenge/overview
+27,AI,This challenge is designed to identify people with the talent to create a predictive model using financial data. ,https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/overview
+28,AI,"How can we use the world’s tools and intelligence to forecast economic outcomes that can never be entirely predictable? 
+                      This question is at the core of countless economic activities around the world – including at Two Sigma Investments, 
+                      who has been applying technology and systematic strategies to financial trading since 2001.",https://www.kaggle.com/c/two-sigma-financial-modeling/overview
+29,AI,"As a scientifically driven investment manager, 
+                      Two Sigma has been applying technology and data science to financial forecasts for over 17 years. 
+                      Their pioneering advances in big data, AI, and machine learning have pushed the investment industry forward. 
+                      Now, they're eager to engage with Kagglers in this continuing pursuit of innovation.",https://www.kaggle.com/c/two-sigma-financial-news/overview
+30,DA,"The first test of your new data exploration skills uses data describing crime in the city of Chicago.
+                      Before you get started, run the following cell. It sets up the automated feedback system to review your answers.",https://www.kaggle.com/dansbecker/exercise-getting-started-with-sql-and-bigquery
+31,DA,"Structured Query Language, or SQL, is the programming language used with databases, 
+                      and it is an important skill for any data scientist. In this course, you'll build your SQL skills using BigQuery, 
+                      a web service that lets you apply SQL to huge datasets.",https://www.kaggle.com/dansbecker/getting-started-with-sql-and-bigquery
+32,DA,"Queries with GROUP BY can be powerful. There are many small things that can trip you up (like the order of the clauses), 
+                      but it will start to feel natural once you've done it a few times. Here, you'll write queries using GROUP BY to answer questions from the Hacker News dataset.",https://www.kaggle.com/haniash/exercise-group-by-having-count
+33,DA,"The first test of your new data exploration skills uses data describing crime in the city of Chicago.
+                      Before you get started, run the following cell. It sets up the automated feedback system to review your answers.",https://www.kaggle.com/codeayu/sql-summer-camp-day-1-exercises
+34,DA,"Return a table with the number of vehicles registered in each state that were involved in hit-and-run accidents, 
+                      sorted by the number of hit and runs. Use either the vehicle_2015 or vehicle_2016 table for this, especially the registration_state_name and 
+                      hit_and_run columns.",https://www.kaggle.com/elzawie/sql-scavenger-hunt-day-3-exercises
+35,DA,"Here are the questions we're going to answer using the Hacker News data:
+                      How many records are there of each type in the full table?
+                      How many comments have been deleted? (If a comment was deleted the ""deleted"" column in the comments table will have the value ""True"".)",https://www.kaggle.com/elzawie/sql-scavenger-hunt-day-2-exercises
+36,DA,"Today, we're going to learn how to use SELECT, FROM and WHERE to get data from a specific column based on the value of another column.",https://www.kaggle.com/rtatman/sql-scavenger-hunt-day-1
+37,DA,"SQL is a conceptual language for working with data stored in databases. 
+                      In our case, SQLite is the specific implementation. Most SQL languges share all of the capabilities in this doc. 
+                      The differences are usually in performance and advances analytical funcionalities (and sometimes bugs of course). 
+                      Eventually, we will use SQL lunguage to write queries that would pull data from the DB, manipulate it, sort it, and extract it.",https://www.kaggle.com/dimarudov/data-analysis-using-sql
+38,DA,"Today we're going to learn how change the order that data is returned to us using the ORDER BY clause. 
+                      We're also going to talk a little bit about how to work with dates in SQL, 
+                      because they're sort of their own thing and can lead to headaches if you're unfamiliar with them.",https://www.kaggle.com/rtatman/sql-scavenger-hunt-day-3
+39,DA,"First, let's talk about the AS clause. AS lets you refer to the the columns generated by your queries 
+                      with different names, which is also know as ""aliasing"". (If you use Python a lot you might already have used as for aliasing 
+                      if you've ever done something like import pandas as pd or imports seaborn as sns.)",https://www.kaggle.com/rtatman/sql-scavenger-hunt-day-4
+40,DA,"Today, we're going to learn about how to use JOIN to combine data from two tables. 
+                      This will let us answer more types of questions. It's also one of the more complex parts of SQL. 
+                      Don't worry, though, we're going to go through some examples together.",https://www.kaggle.com/rtatman/sql-scavenger-hunt-day-5
