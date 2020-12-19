@@ -1,0 +1,659 @@
+Course;Tag
+Curso de Pensamiento Lógico;fundamentos
+Curso Gratis de Programación Básica;fundamentos
+Fundamentos de Ingeniería de Software;fundamentos
+Curso de Diseño para Programadores;fundamentos
+Curso de Introducción a C 2019;fundamentos
+Curso de Redes Informáticas de Internet;fundamentos
+Introducción a C++;fundamentos
+Curso Básico de Algoritmos;fundamentos
+Curso de Introducción a los Algoritmos de Ordenamiento;fundamentos
+Curso de Analista de Negocios en RPA;fundamentos
+Curso de Automatización de Procesos RPA con UiPath;fundamentos
+Fundamentos de Arquitectura de Software;fundamentos
+Curso de Introducción a la Terminal y Línea de Comandos;fundamentos
+Fundamentos de Bases de Datos;fundamentos
+Curso de Expresiones Regulares;fundamentos
+Curso de Programación Estructurada;fundamentos
+Curso de Programación Orientada a Objetos: POO;fundamentos
+Curso Profesional de Git y GitHub;fundamentos
+Curso de Fundamentos de Pruebas de Software;fundamentos
+Curso de Programación en Bash Shell;fundamentos
+Curso Profesional de Arquitectura de Software;fundamentos
+Curso de CodeStream;fundamentos
+Curso de Introducción al Technical Writing y Documentación de Código;fundamentos
+Curso de API REST;fundamentos
+Curso de Postman;fundamentos
+Curso Avanzado de Redes de Internet;fundamentos
+Curso de Programación para Padres y Niños 2016;fundamentos
+Curso de Algoritmos con C 2017;fundamentos
+Curso de Programación Orientada a Objetos: POO;backend
+Curso de Introducción a Ruby on Rails;backend
+Curso de Ruby;backend
+Fundamentos de Bases de Datos;backend
+Curso de API REST;backend
+Curso de Creación de APIs con Ruby on Rails;backend
+Curso Intermedio de Ruby on Rails;backend
+Curso de Buenas Prácticas para Escritura de Código;backend
+Curso de DevOps con GitLab;backend
+Curso de Administración de Servidores Linux;backend
+Curso de Fundamentos de Pruebas de Software;backend
+Curso de Introducción a la Terminal y Línea de Comandos;backend
+Curso Profesional de Git y GitHub;backend
+Curso Básico de Python;backend
+Curso de Introducción al Pensamiento Computacional con Python;backend
+Curso de Programación Orientada a Objetos: POO;backend
+Curso de POO y Algoritmos con Python;backend
+Fundamentos de Bases de Datos;backend
+Curso de Introducción a Selenium con Python;backend
+Curso de SQL y MySQL;backend
+Curso Práctico de Python: Creación de un CRUD;backend
+Curso de Flask;backend
+Curso de Django;backend
+Curso Avanzado de Django;backend
+Curso de Introducción a la Terminal y Línea de Comandos;ingenieria
+Curso de Administración de Servidores Linux;ingenieria
+Fundamentos de Google Cloud Platform;ingenieria
+Curso de Fundamentos de AWS Cloud;ingenieria
+Fundamentos de IBM Cloud;ingenieria
+Curso de Azure IaaS;ingenieria
+Curso de Digital Ocean;ingenieria
+Curso de Introducción al Despliegue de Aplicaciones;ingenieria
+Curso de Gestión de Servidores con Rust;ingenieria
+Curso Básico de Jenkins;ingenieria
+Curso de Programación en Bash Shell;ingenieria
+Curso de Travis CI;ingenieria
+Curso de Swarm;ingenieria
+Curso de Docker;ingenieria
+Curso de Kubernetes;ingenieria
+Curso de Google Kubernetes Engine;ingenieria
+Curso de Infraestructura Como Código con Terraform;ingenieria
+Curso de DevOps con GitLab;ingenieria
+Curso Profesional de DevOps;ingenieria
+Curso de Fundamentos de Pruebas de Software;ingenieria
+Curso de Deploy con Amazon Web Services 2015;ingenieria
+Curso de Heroku 2015;ingenieria
+Curso de Rackspace 2015;ingenieria
+Curso de Azure 2015;ingenieria
+Fundamentos de Docker 2017;ingenieria
+Curso de Deploy con Amazon Web Services 2017;ingenieria
+Curso de Azure PaaS 2018;ingenieria
+Curso de Arquitectura de Aplicaciones con Docker 2018;ingenieria
+Curso de DigitalOcean 2017;ingenieria
+Curso de Introducción al Pensamiento Computacional con Python;ai-ml
+Curso de POO y Algoritmos con Python;ai-ml
+Curso de Estadística Computacional con Python;ai-ml
+Curso de Introducción al Pensamiento Probabilístico;ai-ml
+Curso de Análisis de Negocios para Ciencia de Datos;ai-ml
+Curso de Introducción a Machine Learning;ai-ml
+Curso de Fundamentos Matemáticos para Inteligencia Artificial;ai-ml
+Curso de Matemáticas Discretas;ai-ml
+Curso de Cálculo Multivariable;ai-ml
+Curso de Fundamentos de Álgebra Lineal con Python;ai-ml
+Curso de Álgebra Lineal Aplicada para Machine Learning;ai-ml
+Curso de Fundamentos Prácticos de Machine Learning;ai-ml
+Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK;ai-ml
+Curso de Machine Learning para Análisis Predictivo;ai-ml
+Curso de Machine Learning Aplicado con Python;ai-ml
+Curso Práctico de Regresión Lineal con Python;ai-ml
+Curso Profesional de Machine Learning con Scikit-Learn;ai-ml
+Curso de Algoritmos de Clasificación de Texto;ai-ml
+Curso de Redes Neuronales en Keras y Scikit-Learn;ai-ml
+Curso de Deep Learning con Pytorch;ai-ml
+Fundamentos de Ingeniería de Software;ingenieria
+Fundamentos de Bases de Datos;ingenieria
+Curso de Introducción a la Terminal y Línea de Comandos;ingenieria
+Curso de SQL y MySQL;ingenieria
+Curso de PostgreSQL;ingenieria
+Curso Básico de MongoDB;ingenieria
+Curso de Introducción a Elasticsearch;ingenieria
+Curso Práctico de SQL;ingenieria
+Curso de Optimización de Bases de Datos en SQL Server;ingenieria
+Fundamentos de Google Cloud Platform;ingenieria
+Curso de Bases de Datos en AWS;ingenieria
+Curso de Firebase para Web;ingenieria
+Curso de SQL en Azure;ingenieria
+Curso de Análisis de Negocios para Ciencia de Datos;ingenieria
+Curso de PostgreSQL Aplicado a Ciencia de Datos;ingenieria
+Curso Introductorio de Spark;ingenieria
+Curso de AWS Redshift para Manejo de Big Data;ingenieria
+Curso de Hadoop;ingenieria
+Curso Profesional de Git y GitHub;frontend
+Curso de Desarrollo Web Online;frontend
+Curso de Responsive Design;frontend
+Curso de CSS Grid Layout;frontend
+Curso de HTML y CSS;frontend
+Curso Práctico de HTML y CSS;frontend
+Curso Práctico de Maquetación en CSS;frontend
+Curso Básico de JavaScript;frontend
+Fundamentos de JavaScript;frontend
+Curso de jQuery a JavaScript;frontend
+Curso de Preprocesadores CSS;frontend
+Curso de Sass;frontend
+Curso de Less;frontend
+Curso de Stylus;frontend
+Curso de Bootstrap;frontend
+Curso de Foundation;frontend
+Curso de Animaciones para la Web;frontend
+Curso de Sistemas de Diseño para Desarrolladores;frontend
+Curso de Tailwind CSS;frontend
+Curso de Materialize;frontend
+Curso de JavaScript Engine (V8) y el Navegador;frontend
+Curso de Single Page Application con JavaScript Vanilla;frontend
+Curso de Closures y Scope en JavaScript;frontend
+Taller de Creación de Router para Single Page App con JavaScript;frontend
+Curso de Asincronismo con JavaScript;frontend
+Curso de Postman;frontend
+Curso de React.js;frontend
+Curso Básico de Vue.js;frontend
+Curso de Angular;frontend
+Curso de Svelte;frontend
+Curso de Desarrollo Web con Svelte y Sapper;frontend
+Curso de HTML5 y CSS3 Febrero 2015;frontend
+Curso de JavaScript y jQuery 2015;frontend
+Diseño web con PostCSS, el futuro de CSS;frontend
+Curso de Frontend con Bootstrap y Foundation 2016;frontend
+Curso de Diseño HTML y CSS para Emails 2016;frontend
+Curso profesional de Git y GitHub 2017;frontend
+Curso de ECMAScript 6+;frontend
+Curso Profesional de JavaScript;frontend
+Curso Práctico de React JS;frontend
+Curso de React.js;frontend
+Curso de Postman;frontend
+Curso de Gestión de Dependencias y Paquetes con NPM;frontend
+Curso de Webpack;frontend
+Curso de Redux por Bedu;frontend
+Curso de React Router y Redux;frontend
+Curso de Unit Testing con Jest en React;frontend
+Curso Profesional de React Hooks;frontend
+Curso Básico de GraphQL;frontend
+Curso de Next.js;frontend
+Curso de Desarrollo de Aplicaciones Web con Gatsby JS;frontend
+Curso de Progressive Web Apps con React.js;frontend
+Curso de React Avanzado;frontend
+Curso de Introducción a React Native;frontend
+Curso de React.js 2017;frontend
+Curso de Redux 2018;frontend
+Curso de Frontend Developer;frontend
+Curso Básico de JavaScript;frontend
+Fundamentos de JavaScript;frontend
+Curso Básico de Vue.js;frontend
+Curso de Asincronismo con JavaScript;frontend
+Curso Profesional de JavaScript;frontend
+Curso Profesional de Vue.js;frontend
+Curso de Firebase para Web;frontend
+Curso Avanzado de Vue.js y Firebase por Bedu;frontend
+Curso Avanzado de Vue.js;frontend
+Curso de Testing con Vue.js;frontend
+Curso de Programación Funcional en JavaScript por Bedu;frontend
+Curso de Gestión de Dependencias y Paquetes con NPM;frontend
+Curso de Introducción a la Terminal y Línea de Comandos;backend
+Curso Profesional de Git y GitHub;backend
+Curso de Fundamentos de PHP;backend
+Curso de Manejo de Datos en PHP;backend
+Curso de Programación Orientada a Objetos: POO;backend
+Curso de Programación Orientada a Objetos en PHP;backend
+Curso de Buenas Prácticas para Escritura de Código;backend
+Fundamentos de Bases de Datos;backend
+Curso de Introducción a Frameworks de PHP;backend
+Curso de Introducción a Laravel;backend
+Curso de Introducción a Laravel 8;backend
+Curso Básico de Manejo de Datos en Laravel con Eloquent ORM;backend
+Curso de Single Page Applications en Laravel con Inertia y Vue.js;backend
+Curso Básico de Testing con PHP y Laravel;backend
+Curso de API REST;backend
+Curso de Symfony Framework;backend
+Curso Avanzado de Laravel;backend
+Curso de API REST con Laravel;backend
+Curso de Desarrollo de Aplicaciones en Laravel con TDD;backend
+Curso de Administración de Servidores Linux;backend
+Curso de Introducción al Despliegue de Aplicaciones;backend
+Curso de Introducción a PHP 2018;backend
+Curso Avanzado de PHP;backend
+Curso de PHP con Laravel;backend
+Curso Profesional de JavaScript;apps
+Curso de React.js;apps
+Curso de ECMAScript 6+;apps
+Curso Práctico de React JS;apps
+Curso de Redux por Bedu;apps
+Curso de React Router y Redux;apps
+Curso de React Avanzado;apps
+Curso Profesional de React Hooks;apps
+Curso de Introducción a React Native;apps
+Curso Básico de Algoritmos;juegos
+Curso de Creación de Videojuegos;juegos
+Curso de Diseño de Videojuegos;juegos
+Curso de Introducción a la Programación de Videojuegos 3D con Unity;juegos
+Curso Profesional de Git y GitHub;juegos
+Introducción a C++;juegos
+Curso de Introducción a C;juegos
+Fundamentos de C# con NET Core;juegos
+Curso de Dirección de Videojuegos;juegos
+Curso de C# para Videojuegos;juegos
+Curso de Programación de Videojuegos 2D con Unity;juegos
+Curso de Desarrollo de Videojuegos para Móviles con Unity;juegos
+Curso de Programación de Videojuegos 2D con Unity;juegos
+Curso Avanzado de Creación de RPGs con Unity;juegos
+Curso de VR con Unity;juegos
+Curso de Programación de Videojuegos 3D con Unity - 2017;juegos
+Curso de Introducción a la Terminal y Línea de Comandos;backend
+Fundamentos de Arquitectura de Software;backend
+Curso Profesional de Git y GitHub;backend
+Curso de Administración de Servidores Linux;backend
+Curso de Programación en GO;backend
+Curso de PostgreSQL 2017;backend
+Curso de Go Avanzado 2016;backend
+Curso de Introducción a la Terminal y Línea de Comandos;apps
+Curso Profesional de Git y GitHub;apps
+Curso de Programación Orientada a Objetos: POO;apps
+Curso Básico de JavaScript;apps
+Curso de Frontend Developer;apps
+Curso de React.js;apps
+Curso de Electron: Apps de escritorio en Windows y Mac;apps
+Curso de Progressive Web Apps con React.js;apps
+Curso de Introducción a React Native;apps
+Curso de Fundamentos de TypeScript;apps
+Curso de Angular;apps
+Curso de Progressive Web Apps con Angular;apps
+Curso de Ionic 4;apps
+Fundamentos de Bases de Datos;apps
+Fundamentos de C# con NET Core;apps
+Curso de C# con .Net Core;apps
+Curso de ASP.NET Core;apps
+Curso de Desarrollo Web con Blazor y .Net;apps
+Curso de Xamarin.Forms;apps
+Curso de Bases Técnicas de Android;apps
+Curso Básico de Diseño de Interfaces con Android Studio;apps
+Curso de Flutter;apps
+Curso Avanzado de Flutter;apps
+Curso de Desarrollo de Apps para iOS;apps
+Curso de Pensamiento Lógico;fundamentos
+Curso de Fundamentos de Matemáticas;fundamentos
+Curso de Álgebra;fundamentos
+Curso de Cálculo para Análisis de Datos;fundamentos
+Curso de Excel para el Análisis de Datos - 2018;fundamentos
+Curso de Matemáticas Discretas;fundamentos
+Curso de Ecuaciones Diferenciales;fundamentos
+Curso de Cálculo Multivariable;fundamentos
+Curso de Fundamentos Matemáticos para Inteligencia Artificial;fundamentos
+Curso de Cálculo Integral: Integrales Directas;fundamentos
+Curso de Cálculo Integral: Integrales por Sustitución;fundamentos
+Curso de Cálculo Integral: Integración por Partes, Cíclicas e Integrales Definidas;fundamentos
+Taller de Aplicación de Modelos Numéricos;fundamentos
+Curso de Introducción a la Terminal y Línea de Comandos;ingenieria
+Curso Profesional de Git y GitHub;ingenieria
+Fundamentos de Bases de Datos;ingenieria
+Curso de SQL y MySQL;ingenieria
+Curso Básico de MongoDB;ingenieria
+Curso de Firebase para Web;ingenieria
+Curso de Firebase Cloud Functions;ingenieria
+Fundamentos de Google Cloud Platform;ingenieria
+Curso de Firebase para Web 2017;ingenieria
+Curso de Programación Orientada a Objetos: POO;apps
+Curso Profesional de Git y GitHub;apps
+Fundamentos de C# con NET Core;apps
+Curso de C# con .Net Core;apps
+Curso de ASP.NET Core;apps
+Curso de Desarrollo Web con Blazor y .Net;apps
+Curso de Web Apps y Logic Apps en Azure;apps
+Curso Profesional de C# y ASP.Net 2016;apps
+Curso de Azure IaaS 2018;apps
+Fundamentos de Ingeniería de Software;data-science
+Curso de Introducción a la Terminal y Línea de Comandos;data-science
+Fundamentos de IBM Cloud;data-science
+Curso de Administración de Servidores Linux;data-science
+Curso Profesional de DevOps;data-science
+Curso de Swarm;data-science
+Fundamentos de Docker 2018;data-science
+Curso Avanzado de IBM Watson;data-science
+Curso de Inteligencia Artificial con IBM Watson;data-science
+Curso de Introducción a la Terminal y Línea de Comandos;apps
+Curso Profesional de Git y GitHub;apps
+Curso de Programación Orientada a Objetos: POO;apps
+Curso de Introducción a Java SE;apps
+Curso de Java SE Orientado a Objetos;apps
+Curso Básico de Kotlin;apps
+Curso de Bases Técnicas de Android;apps
+Curso Básico de Diseño de Interfaces con Android Studio;apps
+Curso de Kotlin para Android;apps
+Curso de Arquitectura de Android;apps
+Curso de Patrones de Diseño en Android;apps
+Curso de Kotlin con Firebase Firestore;apps
+Curso de Desarrollo de Aplicaciones con Huawei;apps
+Curso de Clean Architecture en Android;apps
+Curso de Flutter;apps
+Curso Avanzado de Flutter;apps
+Curso profesional de Git y GitHub 2016;apps
+Curso Definitivo de Android 2016;apps
+Curso de Kotlin para Android 2017;apps
+Curso Profesional de Firebase para Android 2017;apps
+Curso de Administración de Servidores Linux;data-science
+Curso de Introducción a la Terminal y Línea de Comandos;data-science
+Curso Profesional de Git y GitHub;data-science
+Curso de Fundamentos de AWS Cloud;data-science
+Curso de Cloud Computing con AWS;data-science
+Curso de Storage en AWS;data-science
+Curso de Bases de Datos en AWS;data-science
+Curso de Networking y Content Delivery en AWS;data-science
+Curso de Infraestructura Como Código en AWS;data-science
+Curso de Big Data en AWS;data-science
+Curso de Análisis de Negocios para Ciencia de Datos;data-science
+Curso Básico de Python;data-science
+Curso Profesional de Git y GitHub;data-science
+Curso de Introducción al Pensamiento Computacional con Python;data-science
+Curso de POO y Algoritmos con Python;data-science
+Curso de Estadística Computacional con Python;data-science
+Curso de Introducción al Pensamiento Probabilístico;data-science
+Curso de Matemáticas para Data Science: Cálculo;data-science
+Curso de Matemáticas para Data Science: Probabilidad;data-science
+Curso de Introducción al Álgebra Lineal: Vectores;data-science
+Curso de Introducción a la Terminal y Línea de Comandos;data-science
+Fundamentos de Bases de Datos;data-science
+Curso de SQL y MySQL;data-science
+Curso Práctico de SQL;data-science
+Curso de Fundamentos de Web Scraping con Python y Xpath;data-science
+Curso de Web Scraping: Extracción de Datos en la Web;data-science
+Curso de Scrapy;data-science
+Curso de Introducción a Business Intelligence con Excel;data-science
+Curso de Visualización de Datos para Business Intelligence;data-science
+Curso de Introducción a Business Intelligence con Power BI;data-science
+Curso de Tableau: Visualización de Datos y Storytelling para Negocios;data-science
+Curso de Google Data Studio;data-science
+Curso de Ingeniería de Datos con Python;data-science
+Curso de Fundamentos de Estadística y Análisis de Datos con Python;data-science
+Curso Práctico de Regresión Lineal con Python;data-science
+Fundamentos de R;data-science
+Curso de PostgreSQL Aplicado a Ciencia de Datos;data-science
+Curso de Manipulación y Análisis de Datos con Pandas y Python;data-science
+Curso de Análisis Exploratorio de Datos;data-science
+Curso de Estadística Inferencial con R;data-science
+Curso Introductorio de Spark;data-science
+Curso de AWS Redshift para Manejo de Big Data;data-science
+Curso de Fundamentos de Álgebra Lineal con Python;data-science
+Curso de Introducción a Machine Learning;data-science
+Curso de Álgebra Lineal Aplicada para Machine Learning;data-science
+Curso de TensorFlow.js;data-science
+Curso de Redes Neuronales en Keras y Scikit-Learn;data-science
+Curso de Fundamentos de Teoría de la Información;data-science
+Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK;data-science
+Curso de Algoritmos de Clasificación de Texto;data-science
+Curso de Deep Learning con Pytorch;data-science
+Curso Profesional de Git y GitHub;frontend
+Curso de Buenas Prácticas para Escritura de Código;frontend
+Curso de Creación de Temas y Plugins en WordPress;frontend
+Curso de Introducción al Diseño;frontend
+Curso Práctico de WordPress;frontend
+Curso de Creación de Tiendas en Línea con WooCommerce;frontend
+Curso Avanzado de PHP;frontend
+Curso Profesional de WordPress;frontend
+Curso de Introducción a la Terminal y Línea de Comandos;ingenieria
+Curso Básico de Seguridad Informática para Empresas;ingenieria
+Curso de Preparación para la Certificación en la Norma ISO 27001;ingenieria
+Curso de Redes Informáticas de Internet;ingenieria
+Curso de DLP: Prevención de Pérdida de Datos;ingenieria
+Curso de Administración de Servidores Linux;ingenieria
+Curso de Introducción a la Seguridad Informática;ingenieria
+Curso de Fundamentos de Pentesting;ingenieria
+Curso de Pentesting a Redes;ingenieria
+Curso de Informática Forense;ingenieria
+Curso de Hacking Ético;ingenieria
+Curso de Análisis de Malware;ingenieria
+Curso de Análisis de Malware para Dispositivos Móviles;ingenieria
+Curso Avanzado de Redes de Internet;ingenieria
+Curso de Autenticación con OAuth;ingenieria
+Introducción a Terminal y Línea de Comandos 2016;ingenieria
+Curso de Pentesting 2016;ingenieria
+Curso de Administración de Servidores Linux 2017;ingenieria
+Curso de Pentesting 2019;ingenieria
+Curso de Análisis de Vulnerabilidades Web con OWASP 2017;ingenieria
+Curso de Seguridad Informática para Empresas 2018;ingenieria
+Curso de Programación Estructurada;apps
+Curso Profesional de Git y GitHub;apps
+Curso de Programación Orientada a Objetos: POO;apps
+Curso de Introducción a Swift;apps
+Curso de Programación en Swift;apps
+Curso de Programación con Swift: Funciones;apps
+Curso de Programación Orientada a Objetos en Swift;apps
+Curso de Desarrollo de Interfaces con iOS;apps
+Curso de Desarrollo de Apps para iOS;apps
+Curso de programación para iOS con Swift 2 - 2016;apps
+Curso de Desarrollo para iOS con Swift 2014;apps
+Curso de Desarrollo de Aplicaciones para iOS 2017;apps
+Curso de Desarrollo de Aplicaciones iOS 2018;apps
+Curso de programación para iOS con Swift 2 - 2016;apps
+Curso de Programación Básica 2014;apps
+Curso de Desarrollo para iOS con Swift 2014;apps
+Curso profesional de Git y GitHub 2014;apps
+Curso de Swift 2017;apps
+Curso de Desarrollo de Aplicaciones para iOS 2017;apps
+Curso de Creación de Videojuegos;juegos
+Curso de Diseño y Prototipado de Personajes;juegos
+Curso de Testing de Videojuegos;juegos
+Curso Profesional de Diseño de Videojuegos;juegos
+Curso Profesional de Git y GitHub;juegos
+Curso de Introducción a la Programación de Videojuegos 3D con Unity;juegos
+Curso de Programación de Videojuegos 2D con Unity;juegos
+Curso de C# para Videojuegos;juegos
+Curso de Desarrollo de Videojuegos para Móviles con Unity;juegos
+Curso Avanzado de Creación de RPGs con Unity;juegos
+Curso de VR con Unity;juegos
+Curso de Desarrollo de Videojuegos con Unreal Engine;juegos
+Curso Básico de Photoshop;juegos
+Curso de Ilustración con Photoshop;juegos
+Curso de Diseño de Videojuegos;juegos
+Curso de Introducción  a la Creación de Personajes;juegos
+Curso de Arte para Personajes 2D;juegos
+Curso de Arte Conceptual de Escenarios;juegos
+Curso de Escritura de Personajes y NPC en Videojuegos;juegos
+Curso de Modelado 3D con Maya;juegos
+Curso de Texturizado 3D con Substance Painter;juegos
+Curso de Diseño y Modelado de Escenarios para Videojuegos;juegos
+Curso de Texturizado de Escenarios para Videojuegos;juegos
+Curso de Animación de Personajes;juegos
+Curso de Animación y Arte de Videojuegos 2D;juegos
+Curso de Música para Videojuegos;juegos
+Curso de Dirección de Videojuegos;juegos
+Curso de Introducción al Marketing para Videojuegos;juegos
+Curso de Estrategia de Marketing y Monetización en Videojuegos;juegos
+Curso de Marketing y Negocios para Videojuegos;juegos
+Curso de Gamificación;juegos
+Curso Gratis de Programación Básica;apps
+Curso Básico de Algoritmos;apps
+Fundamentos de Bases de Datos;apps
+Curso de Programación Orientada a Objetos: POO;apps
+Curso Profesional de Git y GitHub;apps
+Fundamentos de Arquitectura de Software;apps
+Fundamentos de C# con NET Core;apps
+Curso de C# con .Net Core;apps
+Curso de ASP.NET Core;apps
+Curso de Xamarin.Forms;apps
+Curso de Introducción a la Terminal y Línea de Comandos;backend
+Curso Profesional de Git y GitHub;backend
+Curso de Programación Orientada a Objetos: POO;backend
+Curso de Introducción a Java SE;backend
+Curso de Java SE Orientado a Objetos;backend
+Curso Básico de Kotlin;backend
+Fundamentos de Bases de Datos;backend
+Curso de SQL y MySQL;backend
+Curso de PostgreSQL;backend
+Curso de Java SE Persistencia de Datos;backend
+Curso Básico de Testing en Java;backend
+Curso de Programación Funcional con Java SE;backend
+Curso de Java Spring;backend
+Curso Avanzado de Java SE;backend
+Curso de Bases Técnicas de Android;backend
+Curso de Arquitectura de Android;backend
+Curso de Kotlin para Android;backend
+Curso de Kotlin con Firebase Firestore;backend
+Curso Profesional de JavaScript;frontend
+Curso de Fundamentos de TypeScript;frontend
+Curso de TypeScript con Angular por Belatrix;frontend
+Curso de Angular;frontend
+Curso Profesional de Angular;frontend
+Curso de Rendimiento en Angular;frontend
+Curso de Progressive Web Apps con Angular;frontend
+Curso de Angular Forms: Creación y Optimización de Formularios Web;frontend
+Curso de Ionic 4;frontend
+Curso de Unit Testing para MEAN con Jasmine;frontend
+Curso de ECMAScript 6+;frontend
+Curso de Asincronismo con JavaScript;frontend
+Curso de Webpack;frontend
+Curso de JavaScript Engine (V8) y el Navegador;frontend
+Curso de Debugging con Chrome DevTools;frontend
+Curso de Programación Orientada a Objetos: POO;frontend
+Curso de Programación Funcional en JavaScript por Bedu;frontend
+Curso de Fundamentos de Node.js;frontend
+Curso de Gestión de Dependencias y Paquetes con NPM;frontend
+Curso de Introducción a la Terminal y Línea de Comandos;ingenieria
+Curso Básico de Algoritmos;ingenieria
+Curso de Fundamentos de Electricidad y Electrónica;ingenieria
+Curso Básico de Circuitos Electrónicos;ingenieria
+Curso de Introducción al IoT;ingenieria
+Curso de Introducción a C;ingenieria
+Curso de Control de Flujo en C;ingenieria
+Curso de Funciones en C;ingenieria
+Fundamentos de Desarrollo de Hardware con Arduino;ingenieria
+Curso de Diseño de Circuitos Electrónicos;ingenieria
+Curso de IoT: Protocolos de Comunicación;ingenieria
+Curso de Programación de Microcontroladores Pic con C;ingenieria
+Fundamentos de Google Cloud Platform;ai-ml
+Curso de Administración de Servidores Linux;ai-ml
+Curso de Google App Engine;ai-ml
+Entrenamiento de Google Cloud Platform;ai-ml
+Curso de Google Compute Engine;ai-ml
+Curso de Google Kubernetes Engine;ai-ml
+Curso de Google Serverless;ai-ml
+Curso de Procesamiento de Lenguaje Natural;ai-ml
+Curso de DialogFlow: Programación de Chatbots por voz;ai-ml
+Curso de Fundamentos de Matemáticas;fundamentos
+Curso de Álgebra;fundamentos
+Fundamentos de Matemáticas para Física;fundamentos
+Curso de Excel para el Análisis de Datos - 2018;fundamentos
+Curso de Astrobiología;fundamentos
+Curso de Física Mecánica Estática;fundamentos
+Curso de Introducción a la Terminal y Línea de Comandos;backend
+Curso Básico de JavaScript;backend
+Fundamentos de JavaScript;backend
+Curso Profesional de Git y GitHub;backend
+Curso de Closures y Scope en JavaScript;backend
+Curso de JavaScript Engine (V8) y el Navegador;backend
+Curso de Asincronismo con JavaScript;backend
+Curso de Fundamentos de Node.js;backend
+Curso de Node.js;backend
+Curso de ECMAScript 6+;backend
+Curso de Node.js con Hapi;backend
+Curso Profesional de JavaScript;backend
+Curso Práctico de Node.js;backend
+Curso de Programación Funcional en JavaScript por Bedu;backend
+Curso Básico de GraphQL;backend
+Curso de Express.js;backend
+Curso de Backend con Node.js;backend
+Curso de JavaScript Full Stack con Sails.js;backend
+Curso Avanzado de Node.js;backend
+Curso de End to End Testing con Cypress;backend
+Curso de Travis CI;backend
+Curso de Desarrollo de APIs con Sails.js;backend
+Curso de MEAN 2017;backend
+Curso de JavaScript Testing con Jest 2019;backend
+Curso Básico de Node.js 2018;backend
+Curso de Prework: Configuración de Entorno de Desarrollo en Windows;frontend
+Curso de Frontend Developer;frontend
+Curso de Prework: Buenas Prácticas y Entorno de Desarrollo en macOS;frontend
+Curso Básico de JavaScript;frontend
+Fundamentos de JavaScript;frontend
+Curso de ECMAScript 6+;frontend
+Curso de Asincronismo con JavaScript;frontend
+Curso Profesional de JavaScript;frontend
+Curso Práctico de React JS;frontend
+Curso de React Router y Redux;frontend
+Curso de Fundamentos de Node.js;frontend
+Curso de Backend con Node.js;frontend
+Curso de Server Side Render con Express;frontend
+Curso de Autenticación con Passport.js;frontend
+Curso de Integración de Backend y Frontend;frontend
+Curso de Creación de Portafolio y CV;frontend
+Curso Profesional de Git y GitHub;frontend
+Fundamentos de Bases de Datos;ai-ml
+Curso de Administración de Servidores Linux;ai-ml
+Fundamentos de C# con NET Core;ai-ml
+Curso de C# con .Net Core;ai-ml
+Curso de ASP.NET Core;ai-ml
+Curso de Azure IaaS;ai-ml
+Curso de Almacenamiento en Azure;ai-ml
+Curso de SQL en Azure;ai-ml
+Curso de Web Apps y Logic Apps en Azure;ai-ml
+Curso de Microsoft Flow;ai-ml
+Curso de Introducción a la Web: Historia y Funcionamiento de Internet;frontend
+Curso Definitivo de HTML y CSS;frontend
+Curso Profesional de Git y GitHub;frontend
+Curso Práctico de HTML y CSS;frontend
+Curso de Flujo de Desarrollo Moderno CodeStream;frontend
+Curso de Sistemas de Diseño;frontend
+Curso de Responsive Design: Maquetación Mobile First;frontend
+Curso de CSS Grid Layout;frontend
+Curso de Debugging con Chrome DevTools;frontend
+Curso de Frontend Developer;frontend
+Curso Básico de JavaScript;frontend
+Curso de JavaScript Engine (V8) y el Navegador;frontend
+Curso de ECMAScript 6+;frontend
+Curso de Closures y Scope en JavaScript;frontend
+Curso de Asincronismo con JavaScript;frontend
+Curso de Estructuras de Datos con JavaScript;frontend
+Curso Profesional de JavaScript;frontend
+Curso de Accesibilidad Web;frontend
+Curso de Single Page Application con JavaScript Vanilla;frontend
+Taller de Creación de Router para Single Page App con JavaScript;frontend
+Curso de Gestión de Dependencias y Paquetes con NPM;frontend
+Curso de Webpack;frontend
+Curso de Postman;frontend
+Curso de JavaScript Testing con Jest 2019;frontend
+Curso de Optimización Web;frontend
+Curso de Preprocesadores CSS;frontend
+Curso de Sass;frontend
+Curso de React.js;frontend
+Curso Práctico de React JS;frontend
+Curso de React Router y Redux;frontend
+Curso de React Avanzado;frontend
+Curso Profesional de React Hooks;frontend
+Curso de Fundamentos de TypeScript;frontend
+Curso de Angular;frontend
+Curso Profesional de Angular;frontend
+Curso Básico de Vue.js;frontend
+Curso Avanzado de Vue.js;frontend
+Curso Profesional de Vue.js;frontend
+Curso de Svelte;frontend
+Curso de Sapper;frontend
+Curso de Desarrollo Web con Svelte y Sapper;frontend
+Curso de Fundamentos de Node.js;frontend
+Curso de Introducción al Despliegue de Aplicaciones;frontend
+Curso de Node.js;frontend
+Curso Práctico de Node.js;frontend
+Curso de Backend con Node.js;frontend
+Curso Avanzado de Node.js;frontend
+Curso de Server Side Render con Express;frontend
+Curso de Autenticación con Passport.js;frontend
+Curso de Integración de Backend y Frontend;frontend
+Curso de Next.js;frontend
+Curso Práctico de Arquitectura Backend;frontend
+Curso de Pensamiento Lógico;fundamentos
+Curso de Fundamentos de Matemáticas;fundamentos
+Curso de Álgebra;fundamentos
+Fundamentos de Matemáticas para Física;fundamentos
+Curso de Cálculo para Análisis de Datos;fundamentos
+Curso de Cálculo Integral: Integrales Directas;fundamentos
+Curso de Cálculo Integral: Integrales por Sustitución;fundamentos
+Curso de Cálculo Integral: Integración por Partes, Cíclicas e Integrales Definidas;fundamentos
+Curso de Cálculo Multivariable;fundamentos
+Curso de Ecuaciones Diferenciales;fundamentos
+Curso Básico de Python;fundamentos
+Curso de Introducción al Pensamiento Computacional con Python;fundamentos
+Curso de POO y Algoritmos con Python;fundamentos
+Curso de Estadística Computacional con Python;fundamentos
+Curso de Introducción al Pensamiento Probabilístico;fundamentos
+Curso de Matemáticas para Data Science: Cálculo;fundamentos
+Curso de Matemáticas para Data Science: Probabilidad;fundamentos
+Curso de Introducción al Álgebra Lineal: Vectores;fundamentos
+Curso de Fundamentos de Álgebra Lineal con Python;fundamentos
+Curso de Física Mecánica Estática;fundamentos
+Curso de Matemáticas Discretas;fundamentos
+Taller de Aplicación de Modelos Numéricos;fundamentos
